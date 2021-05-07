@@ -1,0 +1,52 @@
+.btn-download{
+    background-color: #6415FF;
+}
+.navItem{
+    padding: 5px 10px !important;
+}
+.navItem.active{
+    padding-right: 50px !important;
+}
+@media all and (max-width:768px){
+    .navItem.active{
+        padding-right: 0px !important;
+    }
+}
+.navItem .navLink{
+    font-size: 14px;
+    color: #00000087;
+    font-weight: bold;
+    border-bottom: 2px solid #00000024;
+}
+.navItem .navLink:hover{
+    color: #00000099 !important;
+    border-bottom: 2px solid #00000099;
+}
+.logo{
+    font-size: 2.5rem;
+    color: rgb(173, 23, 23);
+}
+
+.alert-custom{
+    font-size: 13px !important;
+}
+.sec1-h1{
+    font-size: 3rem;
+    color: #6415FF;
+    font-weight: bold;
+}
+.icon-check{
+    font-size: 33px;
+    color: red;
+    font-weight: bold;
+    padding: 0 5px;
+}
+.btn-sec1{
+    background-color: #6415FF !important;
+    color: aliceblue;
+    border: none;
+
+}
+.btn-sec1:hover{
+    background-color: #560fe4 !important;
+}
