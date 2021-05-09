@@ -11,7 +11,7 @@ function Footer() {
                   <Row>
                       <Col lg={4} md={12} sm={12} col={12}>
                           <div className="py-5">
-                              <h5 className="font-weight-bold">جدید ترین خبر های ما را دنبال کنید .</h5>
+             z                 <h5 className="font-weight-bold">جدید ترین خبر های ما را دنبال کنید .</h5>
                           </div>
                           <div>
                               <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است</p>
